@@ -17,8 +17,6 @@ Skills: HTML5 / CSS / JS / REACT JS / NODE JS / EXPRESS JS / MONGO DB
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-jowel&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/muhammad-jowel/contributions?format=svg&private=false)  
-
 ![GitHub metrics](https://metrics.lecoq.io/muhammad-jowel)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=muhammad-jowel)  
