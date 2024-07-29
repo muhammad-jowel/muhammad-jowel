@@ -26,10 +26,6 @@ I am currently on an exciting journey to master full stack web development with 
 - ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?logo=mongoose&logoColor=white&style=flat) **Mongoose**: Elegant MongoDB object modeling for Node.js.
 
 
-- 🌱 I’m currently learning about web application back end. 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about web development. 
-
 ## Contact
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muhammad-jowel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-jowel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdjowel01)  
