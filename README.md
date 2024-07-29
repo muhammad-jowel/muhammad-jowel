@@ -15,6 +15,7 @@ I am currently on an exciting journey to master full stack web development with 
 - ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat) **Redux**: State management for complex applications.
 - ![Material-UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=white&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) **Material-UI / Tailwind CSS**: UI component libraries and utility-first CSS framework.
 
+
 ### Backend Development
 
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) **Node.js**: Building scalable server-side applications.
@@ -34,7 +35,6 @@ I am currently on an exciting journey to master full stack web development with 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-jowel)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-jowel&show_icons=true)  
-![GitHub metrics](https://metrics.lecoq.io/muhammad-jowel)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-jowel&show_icons=true) 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=muhammad-jowel)  
 
