@@ -1,4 +1,3 @@
-![I'm a Junior Front-End And Back-End Developer || Full Stack Developer With MERN](https://media.licdn.com/dms/image/v2/D4E16AQGbv5sxyGDprQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725910875533?e=1744848000&v=beta&t=16CvQmffAfg1OgkFY9juiiGfOI_OUshRIL9-hPL77nk)
 ### Hi there 👋, I'm Muhammad Jowel.
 #### I'm a Junior Front-End And Back-End Developer || Full Stack Developer With MERN ||
 
